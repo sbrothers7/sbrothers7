@@ -1,4 +1,7 @@
 ### Hello there
+### My name is Sbrothers7
+### Welcome to this server
+### I would appriciate if you could subscribe
 
 <!--
 **Sbrothers7/Sbrothers7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
