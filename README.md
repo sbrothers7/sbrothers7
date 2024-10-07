@@ -1,5 +1,4 @@
-### Hello there
-
+I code random stuff.
 <!--
 **sbrothers7/sbrothers7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
