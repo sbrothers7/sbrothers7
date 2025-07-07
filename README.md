@@ -1,1 +1,1 @@
-Amateur programmer trying to do random things.
+An amateur trying to understand CS.
